@@ -25,7 +25,7 @@ requires `RUBY_VERSION ~> 2.1`
 ## Usage
 
 ```ruby
-require 'bthouret-dad'
+require 'bthouret/dad'
 Bthouret::Dad::Speech.hi(%w(Eva James Noah))
 ```
 
