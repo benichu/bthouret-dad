@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email                 = ["ben@2ret.com"]
   spec.summary               = %q{A Dad says Hi.}
   spec.description           = %q{An example gem used by the presentation: 'gem install demystified'}
-  spec.homepage              = ""
+  spec.homepage              = "https://github.com/benichu/bthouret-dad"
   spec.license               = "MIT"
   spec.required_ruby_version = ">= 1.9.3"
 
