@@ -2,6 +2,8 @@
 
 A very basic example for gem dependencies, used in the 'gem install demystified' presentation.
 
+[![Gem Version](https://badge.fury.io/rb/bthouret-dad.svg)](http://badge.fury.io/rb/bthouret-dad)
+
 ## Installation
 
 Add this line to your application's Gemfile:
