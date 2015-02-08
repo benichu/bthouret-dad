@@ -3,6 +3,7 @@
 A very basic example for gem dependencies, used in the 'gem install demystified' presentation.
 
 [![Gem Version](https://badge.fury.io/rb/bthouret-dad.svg)](http://badge.fury.io/rb/bthouret-dad)
+[![Build Status](https://travis-ci.org/benichu/bthouret-dad.svg?branch=master)](https://travis-ci.org/benichu/bthouret-dad)
 
 ## Installation
 
